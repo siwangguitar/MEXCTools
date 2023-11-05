@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEXCTools", "MEXCTools.csproj", "{E47BE0D5-09FE-45AA-81A2-E6CF33DD2B9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MexcDotNet", "..\..\..\Downloads\mexc-api-demo\spot\v3\MexcDotNet.csproj", "{56252AF8-BCF7-4F72-A464-477381BD13DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47BE0D5-09FE-45AA-81A2-E6CF33DD2B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47BE0D5-09FE-45AA-81A2-E6CF33DD2B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47BE0D5-09FE-45AA-81A2-E6CF33DD2B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47BE0D5-09FE-45AA-81A2-E6CF33DD2B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56252AF8-BCF7-4F72-A464-477381BD13DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56252AF8-BCF7-4F72-A464-477381BD13DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56252AF8-BCF7-4F72-A464-477381BD13DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56252AF8-BCF7-4F72-A464-477381BD13DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F947A85-3E11-488D-A20F-D56A177E709D}
+	EndGlobalSection
+EndGlobal
